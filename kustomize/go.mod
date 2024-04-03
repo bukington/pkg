@@ -1,4 +1,4 @@
-module github.com/fluxcd/pkg/kustomize
+module github.com/bukington/pkg/kustomize
 
 go 1.20
 
